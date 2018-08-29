@@ -1,7 +1,7 @@
 # MNIST - PyTorch Feed Forward Model
 
 ## Overview
-A PyTorch based feed forward neural network to recognise handwritten digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/).
+A [PyTorch](https://pytorch.org) based feed forward neural network to recognise handwritten digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/).
 
 This was covered in a course I was doing and I thought a cleaner version in notebook form with some annotations may be useful for others.
 
